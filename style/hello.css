@@ -1,0 +1,19 @@
+body{
+	font-family: Helvetica;
+}
+
+h1{
+	text-align: center;
+}
+
+.hidden{
+	display: none;
+}
+
+#log{
+	width: 600px;
+	background: #ccc;
+	margin: auto;
+	min-height: 600px;
+	padding: 10px;
+}
