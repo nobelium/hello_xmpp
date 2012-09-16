@@ -1,4 +1,4 @@
-Hi everyone. This is my first shot at creating an xmpp client. This might be useful for newbies who wants to get their feet wet in the world of xmpp. 
+Hi everyone. This is my first shot at creating an xmpp client. This might be useful for newbies who wants to get their feet wet in the world of xmpp..
 
 Some thing about the script:
 
